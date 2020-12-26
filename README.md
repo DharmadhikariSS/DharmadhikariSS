@@ -40,4 +40,4 @@
 
 [twitter](https://twitter.com/satyad24)<br>
 [instagram](https://instagram.com/satyad24)<br>
-[linkedin](https://linkedin.com/in/satyad24)
+[linkedin](https://www.linkedin.com/in/satyajeet-dharmadhikari)
