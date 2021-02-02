@@ -1,5 +1,5 @@
  # Hello there!👋 
- ## I am Satyajeet S. Dharmadhikari. <br> A Computer Guy 😜
+ ## I am Satyajeet S. Dharmadhikari. 
  
 > # Basically i am intrested in these Programming Languages
 
