@@ -38,12 +38,6 @@
 
 > # My Social Media Handles
 
-[twitter](https://twitter.com/satyad24)<br>
-[instagram](https://instagram.com/satyad24)<br>
-[linkedin](https://www.linkedin.com/in/satyajeet-dharmadhikari)
-
-### 📕 Connect With Me :
-
 [<img align="left" alt="SATYA | Twitter" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="SATYA| LinkedIn" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SATYA | Instagram" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
