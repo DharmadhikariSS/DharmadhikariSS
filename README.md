@@ -13,7 +13,7 @@
 
 ## Lets Talk about Python now!<br>
 
->## These are some of my handy Frameworks ->
+>## These are some handy Frameworks ->
 [![](https://img.shields.io/badge/Framework-Django-blue?labelColor=black)](https://www.djangoproject.com/)
 [![](https://img.shields.io/badge/Framework-Flask-blue?labelColor=black)](https://flask.palletsprojects.com/)<br><br>
 <p align='center'>
