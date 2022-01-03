@@ -48,7 +48,13 @@
 [<img align="left" alt="SATYA | Twitter" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="SATYA| LinkedIn" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SATYA | Instagram" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SATYA | Kaggle" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
+[<img align="left" alt="SATYA | ICQ" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icq.svg" />][ICQ]
+[<img align="left" alt="SATYA | Telegram" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 [twitter]: https://twitter.com/satyad24
-[instagram]: https://instagram.com/satyad24
+[kaggle]: https://www.kaggle.com/satyad24
 [linkedin]: https://linkedin.com/in/satyajeet-dharmadhikari
+[instagram]: https://instagram.com/satyad24
+[ICQ]: https://icq.im/satyad24
+[telegram]: https://t.me/Satyad24
