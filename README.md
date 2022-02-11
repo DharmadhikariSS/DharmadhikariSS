@@ -1,6 +1,6 @@
  # Hello there!👋 
  ## I am Satyajeet S. Dharmadhikari. 
- Data Science | BLogger | Python </br></br>
+ Data Science | Blogger | Python </br></br>
  ![](https://komarev.com/ghpvc/?username=DharmadhikariSS&color=red&label=PROFILE+VIEWS)
 
  
