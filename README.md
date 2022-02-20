@@ -1,4 +1,4 @@
- # Hello there!👋 
+ # Hello there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px"> 
  ## I am Satyajeet S. Dharmadhikari. 
  Data Science | Blogger | Python </br></br>
  ![](https://komarev.com/ghpvc/?username=DharmadhikariSS&color=red&label=PROFILE+VIEWS)
