@@ -6,6 +6,8 @@
  
 ## Basically 👇🏻👇🏻👇🏻 this is my Circle of Interest.
 
+[Data Science](https://datascience.foundation/)<br>
+[Data Analytics](https://www.datamation.com/)<br>
 [Python](https://www.python.org/)<br>
 [c++](https://isocpp.org/)<br>
 [JAVA](https://www.java.com/)<br>
