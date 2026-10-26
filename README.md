@@ -1,31 +1,40 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://raw.githubusercontent.com/DharmadhikariSS/DharmadhikariSS/main/assets/hero-banner.svg" width="100%" alt="Satyajeet S. Dharmadhikari — AI Systems, Data Lakehouse & Cloud-Edge Engineer" />
+# Satyajeet S. Dharmadhikari
+### AI Systems · Data Infrastructure · Cloud-Edge Product Engineer
 
 <br/>
 
 <!-- DYNAMIC TYPING SUB-HOOK -->
 <a href="https://vstechworks.co.in">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Google+Cloud+Certified+Professional+Data+Engineer;Building+Autonomous+AI+Workflows+%26+Multi-Agent+Systems;Architecting+Real-Time+PySpark+%26+Apache+Iceberg+Lakehouses;Shipping+Commercial+FinTech+%26+EdTech+SaaS+at+VS+TechWorks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Google+Cloud+Certified+Professional+Data+Engineer;Building+Autonomous+AI+Workflows+%26+Multi-Agent+Systems;Architecting+Real-Time+PySpark+%26+Apache+Iceberg+Lakehouses;Shipping+Commercial+FinTech+%26+EdTech+SaaS+at+VS+TechWorks" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- PRIMARY LIVE & VERIFIED BADGES -->
+<!-- STATUS BADGE -->
 [![GCP PDE Verified](https://img.shields.io/badge/☁️_GCP_Certified-Professional_Data_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/3ac3c51b-8782-4017-9298-88191d76bfaa)
 [![VS TechWorks Studio](https://img.shields.io/badge/⚡_VS_TechWorks-vstechworks.co.in-4F46E5?style=for-the-badge)](https://vstechworks.co.in)
 [![Seema's Abacus Live](https://img.shields.io/badge/🧮_Live_EdTech_PWA-seemas--abacus--academy.in.net-0EA5E9?style=for-the-badge)](https://www.seemas-abacus-academy.in.net/)
 [![SwarnaSetu Live](https://img.shields.io/badge/🪙_Live_FinTech_Portal-swarnasetu.pages.dev-F59E0B?style=for-the-badge)](https://swarnasetu.pages.dev/)
 
-<!-- SOCIAL & PROFILE LINKS -->
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyajeet_Dharmadhikari-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyajeet-dharmadhikari/)
 [![Credly](https://img.shields.io/badge/Credly-Verified_GCP_PDE-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/3ac3c51b-8782-4017-9298-88191d76bfaa)
-[![VS TechWorks](https://img.shields.io/badge/Agency-vstechworks.co.in-111827?style=flat-square&logo=vercel&logoColor=white)](https://vstechworks.co.in)
 [![X / Twitter](https://img.shields.io/badge/X-@satyad24-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/satyad24)
 [![Kaggle](https://img.shields.io/badge/Kaggle-DharmadhikariSS-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 
 </div>
+
+---
+
+> **🟢 AVAILABLE FOR FREELANCE & AGENCY BUILDS** · Co-building production systems at **[VS TechWorks](https://vstechworks.co.in)**.
+> Google Cloud Certified Professional Data Engineer architecting multi-agent AI, real-time lakehouses, and commercial SaaS platforms.
+
+```text
+➜ ~/vstechworks git:(main) ⚡ shipping: SwarnaSetu · SeemasAbacus · MarketLakehouse
+
 
 ---
 
