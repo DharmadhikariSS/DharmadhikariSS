@@ -6,8 +6,8 @@
 <br/>
 
 <!-- DYNAMIC TYPING SUB-HOOK -->
-<a href="https://vstechworks.co.in">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Google+Cloud+Certified+Professional+Data+Engineer;Building+Autonomous+AI+Workflows+%26+Multi-Agent+Systems;Architecting+Real-Time+PySpark+%26+Apache+Iceberg+Lakehouses;Shipping+Commercial+FinTech+%26+EdTech+SaaS+at+VS+TechWorks" alt="Typing SVG" />
+<a href="[https://vstechworks.co.in](https://vstechworks.co.in)">
+  <img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Google+Cloud+Certified+Professional+Data+Engineer;Building+Autonomous+AI+Workflows+%26+Multi-Agent+Systems;Architecting+Real-Time+PySpark+%26+Apache+Iceberg+Lakehouses;Shipping+Commercial+FinTech+%26+EdTech+SaaS+at+VS+TechWorks](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Google+Cloud+Certified+Professional+Data+Engineer;Building+Autonomous+AI+Workflows+%26+Multi-Agent+Systems;Architecting+Real-Time+PySpark+%26+Apache+Iceberg+Lakehouses;Shipping+Commercial+FinTech+%26+EdTech+SaaS+at+VS+TechWorks)" alt="Typing SVG" />
 </a>
 
 <br/><br/>
