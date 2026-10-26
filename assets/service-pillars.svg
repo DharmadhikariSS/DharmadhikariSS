@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#090D16" />
+    </linearGradient>
+  </defs>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  </style>
+
+  <!-- Card 1: Applied AI & Multi-Agent Systems -->
+  <g transform="translate(0, 10)">
+    <rect x="0" y="0" width="285" height="240" rx="14" fill="url(#cardGrad)" stroke="#334155" stroke-width="1.2" />
+    <rect x="0" y="0" width="285" height="5" rx="2.5" fill="#6366F1" />
+    <text x="22" y="40" fill="#818CF8" class="mono" font-size="12" font-weight="700">01 // AGENTIC AI SYSTEMS</text>
+    <text x="22" y="72" fill="#F8FAFC" class="sans" font-size="18" font-weight="700">Applied AI & LLM Apps</text>
+    <text x="22" y="104" fill="#94A3B8" class="sans" font-size="13">• Multi-agent orchestration & RAG</text>
+    <text x="22" y="128" fill="#94A3B8" class="sans" font-size="13">• Gemini, Claude & local Ollama</text>
+    <text x="22" y="152" fill="#94A3B8" class="sans" font-size="13">• Structured outputs & tool calling</text>
+    <text x="22" y="176" fill="#94A3B8" class="sans" font-size="13">• Autonomous code & ops workflows</text>
+    <rect x="22" y="198" width="241" height="26" rx="6" fill="#1E1B4B" />
+    <text x="34" y="215" fill="#A5B4FC" class="mono" font-size="11">Gemini · Claude · Ollama · FastAPI</text>
+  </g>
+
+  <!-- Card 2: Data Lakehouses & Quant Pipelines -->
+  <g transform="translate(305, 10)">
+    <rect x="0" y="0" width="285" height="240" rx="14" fill="url(#cardGrad)" stroke="#334155" stroke-width="1.2" />
+    <rect x="0" y="0" width="285" height="5" rx="2.5" fill="#06B6D4" />
+    <text x="22" y="40" fill="#38BDF8" class="mono" font-size="12" font-weight="700">02 // DATA & QUANT INFRA</text>
+    <text x="22" y="72" fill="#F8FAFC" class="sans" font-size="18" font-weight="700">Real-Time Lakehouses</text>
+    <text x="22" y="104" fill="#94A3B8" class="sans" font-size="13">• High-throughput streaming ETL</text>
+    <text x="22" y="128" fill="#94A3B8" class="sans" font-size="13">• Financial market & order-flow AI</text>
+    <text x="22" y="152" fill="#94A3B8" class="sans" font-size="13">• Data lineage & cloud governance</text>
+    <text x="22" y="176" fill="#94A3B8" class="sans" font-size="13">• Zero-copy analytical querying</text>
+    <rect x="22" y="198" width="241" height="26" rx="6" fill="#083344" />
+    <text x="34" y="215" fill="#67E8F9" class="mono" font-size="11">PySpark · Beam · Iceberg · DuckDB</text>
+  </g>
+
+  <!-- Card 3: Full-Stack SaaS & Cloud-Edge -->
+  <g transform="translate(610, 10)">
+    <rect x="0" y="0" width="285" height="240" rx="14" fill="url(#cardGrad)" stroke="#334155" stroke-width="1.2" />
+    <rect x="0" y="0" width="285" height="5" rx="2.5" fill="#10B981" />
+    <text x="22" y="40" fill="#34D399" class="mono" font-size="12" font-weight="700">03 // CLOUD-EDGE SAAS</text>
+    <text x="22" y="72" fill="#F8FAFC" class="sans" font-size="18" font-weight="700">Production Web & Mobile</text>
+    <text x="22" y="104" fill="#94A3B8" class="sans" font-size="13">• Multi-tenant SaaS & EdTech PWAs</text>
+    <text x="22" y="128" fill="#94A3B8" class="sans" font-size="13">• Offline RFC 6238 TOTP licensing</text>
+    <text x="22" y="152" fill="#94A3B8" class="sans" font-size="13">• Serverless edge APIs & D1 SQL</text>
+    <text x="22" y="176" fill="#94A3B8" class="sans" font-size="13">• Real-time sync & RBAC portals</text>
+    <rect x="22" y="198" width="241" height="26" rx="6" fill="#064E3B" />
+    <text x="34" y="215" fill="#6EE7B7" class="mono" font-size="11">React 19 · Supabase · Cloudflare</text>
+  </g>
+
+  <!-- Card 4: Edge IoT & Security Systems -->
+  <g transform="translate(915, 10)">
+    <rect x="0" y="0" width="285" height="240" rx="14" fill="url(#cardGrad)" stroke="#334155" stroke-width="1.2" />
+    <rect x="0" y="0" width="285" height="5" rx="2.5" fill="#F59E0B" />
+    <text x="22" y="40" fill="#FBBF24" class="mono" font-size="12" font-weight="700">04 // EDGE ML & SECURITY</text>
+    <text x="22" y="72" fill="#F8FAFC" class="sans" font-size="18" font-weight="700">Embedded AI & InfoSec</text>
+    <text x="22" y="104" fill="#94A3B8" class="sans" font-size="13">• ESP32 + IMU sensor fusion ML</text>
+    <text x="22" y="128" fill="#94A3B8" class="sans" font-size="13">• Cryptographic device-bound auth</text>
+    <text x="22" y="152" fill="#94A3B8" class="sans" font-size="13">• Automated AI security auditing</text>
+    <text x="22" y="176" fill="#94A3B8" class="sans" font-size="13">• Cyber law & compliance aware</text>
+    <rect x="22" y="198" width="241" height="26" rx="6" fill="#451A03" />
+    <text x="34" y="215" fill="#FDE68A" class="mono" font-size="11">C++ · ESP32 · RFC 6238 · GCP</text>
+  </g>
+</svg>
