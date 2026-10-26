@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- IMAGE 1: CUSTOM ANIMATED HERO BANNER SVG -->
-<img src="./assets/hero-banner.svg" width="100%" alt="Satyajeet S. Dharmadhikari — AI Systems, Data Lakehouse & Cloud-Edge Engineer" />
+<!-- HERO BANNER -->
+<img src="https://raw.githubusercontent.com/DharmadhikariSS/DharmadhikariSS/main/assets/hero-banner.svg" width="100%" alt="Satyajeet S. Dharmadhikari — AI Systems, Data Lakehouse & Cloud-Edge Engineer" />
 
 <br/>
 
@@ -38,9 +38,9 @@ As a **Google Cloud Certified Professional Data Engineer** co-building **[VS Tec
 2. **Applied AI & Multi-Agent Orchestration:** Wiring domain data into **Google Gemini, Claude, OpenAI, and local Ollama models** with deterministic guardrails and structured outputs.
 3. **Commercial Cloud-Edge SaaS Delivery:** Shipping responsive **React 19 PWAs, Android integrations, Supabase backends, and Cloudflare Workers/D1** systems with enterprise cryptography.
 
-<!-- IMAGE 2: 4-COLUMN SERVICE PILLARS SVG -->
+<!-- SERVICE PILLARS SVG -->
 <div align="center">
-  <img src="./assets/service-pillars.svg" width="100%" alt="Core Engineering & Freelance Pillars" />
+  <img src="https://raw.githubusercontent.com/DharmadhikariSS/DharmadhikariSS/main/assets/service-pillars.svg" width="100%" alt="Core Engineering & Freelance Pillars" />
 </div>
 
 ---
@@ -79,9 +79,6 @@ As a **Google Cloud Certified Professional Data Engineer** co-building **[VS Tec
   - **180-Day Device-Bound TOTP Engine:** Engineered a custom **RFC 6238 Time-Based One-Time Password (TOTP)** licensing handshake between the Cloudflare web portal and the Android application.
   - **Zero-Trust Offline Verification:** Binds cryptographic license keys to hardware device IDs with deterministic epoch windows, eliminating server-spoofing while allowing offline field operation.
   - **Full Subscriber & Loan Telemetry:** Real-time ledger management, interest calculation, and automated renewal workflows.
-
-<!-- OPTIONAL SCREENSHOT: Upload assets/swarnasetu-preview.png and uncomment the line below -->
-<!-- <img src="./assets/swarnasetu-preview.png" width="100%" alt="SwarnaSetu FinTech Portal Preview" /> -->
 </details>
 
 <details>
@@ -94,9 +91,6 @@ As a **Google Cloud Certified Professional Data Engineer** co-building **[VS Tec
   - **Multi-Role Progressive Web App (PWA):** Built with **React 19, Vite, Tailwind CSS, and Supabase** featuring dedicated Student, Teacher, and Admin portals.
   - **Generative AI & Algorithmic Practice Engine:** Integrated **Google Gemini API** and custom algorithmic Soroban worksheet generators for adaptive mental arithmetic drills and instant performance analytics.
   - **Offline-First & Installable:** Configured service workers and edge caching so students can practice seamlessly on low-bandwidth mobile devices.
-
-<!-- OPTIONAL SCREENSHOT: Upload assets/seemas-abacus-preview.png and uncomment the line below -->
-<!-- <img src="./assets/seemas-abacus-preview.png" width="100%" alt="Seema's Abacus Academy PWA Preview" /> -->
 </details>
 
 ---
@@ -193,10 +187,10 @@ flowchart LR
 
 ## 🎓 Credentials, Certifications & Background
 
-<!-- IMAGE 3: CLICKABLE CREDENTIALS & CREDLY VERIFIED SVG BANNER -->
+<!-- CREDENTIALS BANNER SVG -->
 <div align="center">
   <a href="https://www.credly.com/badges/3ac3c51b-8782-4017-9298-88191d76bfaa">
-    <img src="./assets/credentials-banner.svg" width="100%" alt="Google Cloud Certified Professional Data Engineer, IBM ML & BITS Pilani Credentials" />
+    <img src="https://raw.githubusercontent.com/DharmadhikariSS/DharmadhikariSS/main/assets/credentials-banner.svg" width="100%" alt="Google Cloud Certified Professional Data Engineer, IBM ML & BITS Pilani Credentials" />
   </a>
 </div>
 
